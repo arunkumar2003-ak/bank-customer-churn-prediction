@@ -36,3 +36,6 @@ This project predicts customer churn using a trained ML model (Logistic Regressi
 ```bash
 pip install -r requirements.txt
 python app.py
+
+
+<img width="606" height="891" alt="Screenshot 2026-06-19 124356" src="https://github.com/user-attachments/assets/8013ec46-030f-48db-90c4-2dfc7a9fcc9b" />
